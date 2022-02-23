@@ -1,3 +1,5 @@
+@extends('layouts.studentLayout')
+@section('content')
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,3 +18,4 @@
 	</form>
 </body>
 </html>
+@endsection
