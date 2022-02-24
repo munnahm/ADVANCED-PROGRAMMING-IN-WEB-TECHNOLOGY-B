@@ -2,7 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\Http",
+    "\\app\\Models",
     "\\resources",
     "\\resources\\views",
     "\\resources\\views\\cv",
@@ -11,6 +11,6 @@
     "\\resources\\views\\userForms",
     "\\routes"
   ],
-  "SelectedNode": "\\resources\\views\\userForms\\login.blade.php",
+  "SelectedNode": "\\resources\\views\\student\\edit.blade.php",
   "PreviewInSolutionExplorer": false
 }

@@ -30,3 +30,5 @@ Route::get('student/create',[studentController::class,'create'])->name('s.create
 Route::get('student/get',[studentController::class,'get'])->name('s.get');
 Route::get('student/list',[studentController::class,'list'])->name('s.list');
 Route::get('student/details/{id}/{name}',[studentController::class,'details'])->name('s.details');
+Route::get('student/register',[studentController::class,'register'])->name('s.register');
+Route::get('student/edit/{id}',[studentController::class,'edit'])->name('s.edit');

@@ -3,4 +3,5 @@
 	<a href="{{route('s.create')}}">Create</a>
 	<a href="{{route('s.get')}}">Get</a>
     <a href="{{route('s.login')}}">Login</a>
+    <a href="{{route('s.register')}}">Registration</a>
 </div>
